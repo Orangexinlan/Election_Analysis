@@ -8,7 +8,7 @@ Assisting a Colorado Board of Elections employee Tom in an election audit of the
   4. After votes are counted, to generate a vote count report to certify this U.S congressional race.
 
 
-## Election-Audit Summary:
+## Election-Audit Results:
 ![this is an image](https://github.com/Orangexinlan/Election_Analysis/blob/3f8617dd37ea845bb9c91d2279b2ed813e2ebe75/Resources/Election_Results.png)
 
 There were 369,711 total votes in this congressional election. 
@@ -26,5 +26,12 @@ There were Three Candidate, and the votes results were:
   3. Raymon Anthony Doane received 3.1% of the vote, for a total of 11,606 votes.
   
  Based on the vote result, the winner of the election was:
-  Diana DeGette, who received 73.8% of the vote for a total of 272,892 votes.
+   Diana DeGette, who received 73.8% of the vote for a total of 272,892 votes.
  
+## Election-Audit Summary:
+In this script, we calculated the turnouts by county and candidates. We calculated the percentage and the number of votes.
+
+Based on the codes, we can also use it on a Federal Election, we can change the County to States and run the results.
+Also this code with modification can be used in other elections, like school board or so...
+
+With just some customizing on the script, is can be used for different analysis.
