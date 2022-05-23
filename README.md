@@ -9,4 +9,4 @@ Assisting a Colorado Board of Elections employee Tom in an election audit of the
 
 
 ## Election-Audit Summary:
-![this is an image]https://github.com/Orangexinlan/Election_Analysis/blob/3f8617dd37ea845bb9c91d2279b2ed813e2ebe75/Resources/Election_Results.png
+![this is an image](https://github.com/Orangexinlan/Election_Analysis/blob/3f8617dd37ea845bb9c91d2279b2ed813e2ebe75/Resources/Election_Results.png)
